@@ -3,7 +3,7 @@ Implemented a completely customized eCommerce/shopping cart application from scr
 
 I used this personnal project as a practice for building full stack websites on which companies can sell their products on.
 
-Demo on youtube
+Demo on Youtube
 ------
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=NjYTDIxweyU" target="_blank"><img src="http://img.youtube.com/vi/NjYTDIxweyU/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
