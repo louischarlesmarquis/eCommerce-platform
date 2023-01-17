@@ -1,7 +1,7 @@
 # eCommerce-platform
 Implemented a responsive eCommerce/shopping cart application from scratch with the MERN stack.
 
-I used this personnal project as a practice for building full stack websites on which companies can sell their products on.
+This can be used as a template for building a full stack website on which a company can sell its products.
 
 Demo on Youtube
 ------
